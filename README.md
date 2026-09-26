@@ -1,0 +1,2 @@
+# discordinfomatiion
+bot開発で使っているdiscord通知関数
